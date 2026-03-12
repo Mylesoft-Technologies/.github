@@ -37,6 +37,27 @@ At the core of every Mylesoft product is **Myles AI** — our proprietary intell
 
 ---
 
+## 👥 The Team Behind Mylesoft
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/Mylesoft-Technologies/.github/main/assets/jonathan-myles.jpeg" width="150" style="border-radius:50%"/><br/><br/>
+<strong>Jonathan Myles</strong><br/>
+<em>Founder & Chief Executive Officer</em><br/><br/>
+A visionary software engineer and entrepreneur, Jonathan founded Mylesoft Technologies in 2020 with a mission to build AI-powered solutions addressing East Africa's most critical challenges. He leads the company's overall strategy, product development, and technology architecture across all 20+ Mylesoft products.
+</td>
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/Mylesoft-Technologies/.github/main/assets/pauline-moraa.jpeg" width="150" style="border-radius:50%"/><br/><br/>
+<strong>Pauline Moraa</strong><br/>
+<em>Co-Founder & Chief Operating Officer</em><br/><br/>
+Pauline brings operational excellence and business development expertise to Mylesoft. As COO, she drives the company's day-to-day operations, sales, marketing, and customer partnerships — ensuring every Mylesoft product delivers measurable impact across East Africa.
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Our Products
 
 ### ✅ Operational — Live Across East Africa
@@ -89,15 +110,14 @@ At the core of every Mylesoft product is **Myles AI** — our proprietary intell
 ---
 
 ## 🏗️ Our Technology Stack
-
 ```
-Frontend      →  React.js · React Native · Tailwind CSS · PWA
-Backend       →  Node.js · Python · RESTful APIs · GraphQL · Microservices
-AI & ML       →  TensorFlow · PyTorch · Scikit-learn · African NLP · Computer Vision
-Database      →  PostgreSQL · MongoDB · Redis · Vector Databases
+Frontend       →  React.js · React Native · Tailwind CSS · PWA
+Backend        →  Node.js · Python · RESTful APIs · GraphQL · Microservices
+AI & ML        →  TensorFlow · PyTorch · Scikit-learn · African NLP · Computer Vision
+Database       →  PostgreSQL · MongoDB · Redis · Vector Databases
 Infrastructure →  AWS · Google Cloud · Kubernetes · Multi-region · Edge Computing
-Payments      →  M-Pesa Daraja · Airtel Money · Stripe
-Security      →  End-to-end encryption · GDPR compliant · 2FA · SSO · Biometric
+Payments       →  M-Pesa Daraja · Airtel Money · Stripe
+Security       →  End-to-end encryption · GDPR compliant · 2FA · SSO · Biometric
 ```
 
 ---
@@ -115,8 +135,6 @@ Security      →  End-to-end encryption · GDPR compliant · 2FA · SSO · Biom
 
 ## 🏢 The M.Y.L.E.S. Principle
 
-Our core values are embedded in our founder's name:
-
 | Letter | Value | Meaning |
 |--------|-------|---------|
 | **M** | Mastery | Unwavering commitment to excellence in engineering and AI |
@@ -124,43 +142,6 @@ Our core values are embedded in our founder's name:
 | **L** | Leadership | Integrity, courage, and accountability in all we do |
 | **E** | Entrepreneurship | Innovation, ownership, and agile problem-solving |
 | **S** | Service | Technology in service of genuine societal impact |
-
----
-
-## 📁 Org Repository Structure
-
-```
-Mylesoft-Technologies/
-├── .github/                  ← Org-wide templates, workflows, and this profile
-├── myles-ai/                 ← Core intelligence engine
-├── mylesoft-website/         ← www.mylesoft.com
-│
-├── — OPERATIONAL —
-├── edumyles/                 ← School management (LIVE)
-├── eduryde/                  ← School transport (LIVE)
-├── mylescare/                ← Healthcare (LIVE)
-├── mylescrm/                 ← CRM (LIVE)
-├── agrimyles/                ← Agriculture (LIVE)
-│
-├── — IN DEVELOPMENT —
-├── mylesrealtors/
-├── mylesride/
-├── myleslogistics/
-├── mylesfinance/
-├── myleslearn/
-├── mylespedia/
-├── myleshospitality/
-│
-└── — ROADMAP 2026–2028 —
-    ├── mylesretail/
-    ├── mylesbuild/
-    ├── mylesenergy/
-    ├── mylesmedia/
-    ├── mylesgov/
-    ├── myleslegal/
-    ├── myleshr/
-    └── mylesmanufacture/
-```
 
 ---
 
